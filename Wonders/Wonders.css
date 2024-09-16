@@ -3,6 +3,7 @@ body, html {
     padding: 0;
     height: 100%;
     overflow: hidden;
+    font: system-ui;
 }
 
 /** video **/
@@ -21,7 +22,7 @@ body, html {
 
 .content {
     position: absolute;
-    top: 80%;
+    top: 85%;
     left: 30px;
     width: 600px;
     text-align: left;
