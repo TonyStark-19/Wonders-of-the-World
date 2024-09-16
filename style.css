@@ -143,8 +143,8 @@ body {
 }
 
 .btn:hover {
-    background: skyblue;
-    color: #eee;
+    background: yellow;
+    color: #000;
     cursor: pointer;
 }
 
