@@ -1,4 +1,5 @@
-body, html {
+body,
+html {
     margin: 0;
     padding: 0;
     height: 100%;
@@ -48,7 +49,7 @@ body, html {
 }
 
 .content .info {
-    color: #ffffff; 
+    color: #ffffff;
     margin-top: 10px;
     margin-bottom: 20px;
     opacity: 0;
