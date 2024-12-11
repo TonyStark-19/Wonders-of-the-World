@@ -1,38 +1,43 @@
 # 7 Wonders of the World
 
-This project is a website that showcases the 7 Wonders of the World. The website includes a slider feature where users can view images, names, and brief descriptions of each wonder. Additionally, there is a button for each wonder that redirects users to a separate page containing interesting facts and a background video about that wonder.
+This project is a website showcasing the 7 Wonders of the World. It features an interactive image slider that displays pictures, names, and brief descriptions of each wonder, providing an engaging user experience.
 
 ## Features
 
-- **Image Slider**: Users can slide through images of the 7 Wonders of the World and see a brief description of each wonder. The slider functionality is implemented using JavaScript.
-  
-- **Individual Wonder Pages**: Each wonder has its own page, which displays:
-  - A background video related to that wonder.
-  - Facts and interesting details about the wonder.
+- **Interactive Image Slider**: 
+  Users can view high-quality images of the wonders along with their names and descriptions. The slider is implemented using JavaScript to provide smooth transitions and user interactivity.
 
 ## Technologies Used
 
-- **HTML**: For structuring the website and creating the various pages.
-- **CSS**: For styling the website, including the layout and design of the slider and pages.
-- **JavaScript**: For adding interactive features like the image slider and page redirections.
-- **Pexels**: Free images and videos are sourced from [Pexels](https://www.pexels.com) for this project.
+- **HTML**: Structured the content and layout of the website.
+- **CSS**: Styled the website, including layout and typography.
+- **JavaScript**: Added interactivity, including the image slider and user navigation.
+- **Pexels**: Free images were sourced from [Pexels](https://www.pexels.com) for high-quality visuals.
 
-## Pages
-
-1. **Home Page**: 
-   - Includes the image slider with names and brief descriptions of the wonders.
-   - A button for each wonder that takes the user to a detailed page about that wonder.
-
-2. **Individual Wonder Pages**:
-   - Each page contains facts about the respective wonder.
-   - A background video of the wonder playing in the background.
-   
 ## Wonders Included
 
-1. The Great Wall of China
-2. Petra
-3. Christ the Redeemer
-4. Machu Picchu
-5. Chichen Itza
-6. Roman Colosseum
-7. Taj Mahal
+1. **The Great Wall of China**  
+2. **Petra**  
+3. **Christ the Redeemer**  
+4. **Machu Picchu**  
+5. **Chichen Itza**  
+6. **Roman Colosseum**  
+7. **Taj Mahal**  
+
+## Deployment
+
+You can view the live project at:  
+[**7 Wonders of the World Website**](https://tonystark-19.github.io/Wonders-of-the-World/)
+
+## Notes
+
+- **Responsiveness:** The website is currently **not responsive**. Improvements will be made in future updates to ensure compatibility with devices of various sizes.  
+- **Future Enhancements:**
+  - Add responsiveness for mobile and tablet screens.
+  - Include detailed pages for each wonder with historical information and visitor tips.
+  - Add animations to enhance the user experience.  
+
+## Credits
+
+- Images sourced from [Pexels](https://www.pexels.com).  
+- Designed and developed by **Aditya chandel**.  
