@@ -4,8 +4,12 @@ This project is a website showcasing the 7 Wonders of the World. It features an 
 
 ## Features
 
-- **Interactive Image Slider**: 
+- **Interactive Image Slider**:  
   Users can view high-quality images of the wonders along with their names and descriptions. The slider is implemented using JavaScript to provide smooth transitions and user interactivity.
+
+- **Screenshots**:
+
+  ![Screenshot 1](./images/SS.png)  
 
 ## Technologies Used
 
@@ -40,4 +44,4 @@ You can view the live project at:
 ## Credits
 
 - Images sourced from [Pexels](https://www.pexels.com).  
-- Designed and developed by **Aditya chandel**.  
+- Designed and developed by **Aditya Chandel**.  
