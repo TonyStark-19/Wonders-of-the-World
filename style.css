@@ -16,7 +16,6 @@ body {
 }
 
 /* container */
-
 .container {
     position: absolute;
     top: 50%;
@@ -30,7 +29,6 @@ body {
 }
 
 /* item */
-
 .container .slide .item {
     width: 200px;
     height: 300px;
@@ -73,7 +71,6 @@ body {
 }
 
 /* content */
-
 .item .content {
     position: absolute;
     top: 50%;
@@ -126,7 +123,6 @@ body {
 }
 
 /* content animation */
-
 @keyframes animate {
     from {
         opacity: 0;
@@ -142,7 +138,6 @@ body {
 }
 
 /* navigation button */
-
 .button {
     width: 100%;
     text-align: center;
@@ -185,22 +180,19 @@ body {
 }
 
 .button button:hover {
-    background: #087b95;
-    border: 1px solid #087b95;
-    color: #fff;
+    background: yellow;
+    border: 1px solid yellow;
+    color: #000;
 }
 
 /* responsiveness */
-
 @media (max-width: 950px) {
-
     .item .content {
         left: 50px;
     }
 }
 
 @media (max-width: 900px) {
-
     .slide .item:nth-child(3) {
         left: 110%;
     }
@@ -220,7 +212,6 @@ body {
 }
 
 @media (max-width: 650px) {
-
     .item .content {
         left: 30px;
     }
@@ -242,7 +233,6 @@ body {
 }
 
 @media (max-width: 550px) {
-
     .item .content {
         left: 20px;
         width: 300px;
@@ -264,7 +254,6 @@ body {
 }
 
 @media (max-width: 450px) {
-
     .item .content {
         width: 250px;
     }
@@ -290,7 +279,6 @@ body {
 }
 
 @media (max-width: 350px) {
-
     .item .content {
         width: 220px;
     }
