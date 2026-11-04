@@ -1,50 +1,54 @@
-# 7 Wonders of the World 🌏✨  
+# 7 Wonders of the World 🌏✨
 
-This project is a website showcasing the **7 Wonders of the World**. It features an **interactive image slider 🎡** that displays pictures, names, and brief descriptions of each wonder, providing an engaging user experience.  
+An interactive and visually engaging website showcasing the **Seven Wonders of the World**. Explore these remarkable landmarks through an immersive **image slider**, featuring stunning visuals, landmark names, and brief descriptions that bring each wonder closer to you.
 
----
-
-## 🚀 Features  
-
-- **🎭 Interactive Image Slider**  
-  Users can view **high-quality images 📸** of the wonders along with their names and descriptions. The slider is implemented using JavaScript to provide smooth transitions and user interactivity.  
-
-- **📱 Fully Responsive Design**  
-  The website is now **responsive**, ensuring a seamless experience across **mobile 📱, tablet 📊, and desktop 🖥️** devices.  
+Discover the beauty, history, and architectural brilliance of these extraordinary wonders!
 
 ---
 
-## 🖼️ Screenshots  
+## 🖼️ Preview  
 
-  ![Screenshot 1](./images/SS.png)  
-
----
-
-## 🛠️ Technologies Used  
-
-- **🌐 HTML** → Structured the content and layout of the website.  
-- **🎨 CSS** → Styled the website, including layout, typography, and responsiveness.  
-- **⚡ JavaScript** → Added interactivity, including the image slider and user navigation.  
-- **📷 Pexels** → Free images were sourced from [Pexels](https://www.pexels.com) for high-quality visuals.  
+![Screenshot 1](./images/previews/image.png)  
 
 ---
 
-## 🏆 Wonders Included  
+## 🌐 Live Demo
 
-1. 🏯 **The Great Wall of China**  
-2. 🏜️ **Petra**  
-3. ✝️ **Christ the Redeemer**  
-4. ⛰️ **Machu Picchu**  
-5. 🏛️ **Chichen Itza**  
-6. 🏟️ **Roman Colosseum**  
-7. 🕌 **Taj Mahal**  
+The project is live and can be viewed here: [Wonders of the World](https://tonystark-19.github.io/Wonders-of-the-World/)
 
 ---
 
-## 🌍 Deployment  
+## 🚀 Features
 
-You can view the live project at:  
-🔗 [**7 Wonders of the World Website**](https://tonystark-19.github.io/Wonders-of-the-World/)  
+| Feature | Description |
+|:---|:---|
+| **Interactive Image Slider** | Explore all seven wonders through a dynamic image slider featuring high-quality images, landmark names, and brief descriptions, with smooth JavaScript-powered transitions. |
+| **Fully Responsive Design** | Enjoy a seamless browsing experience across all devices, including mobiles, tablets, and desktops. |
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Description |
+|:---|:---|
+| **HTML** | Structured the website's content and layout. |
+| **CSS** | Styled the website with layouts, typography, and responsive design. |
+| **JavaScript** | Implemented interactive functionality, including the image slider and navigation. |
+| **Pexels** | Sourced high-quality images from [Pexels](https://www.pexels.com) for the website's visuals. |
+
+---
+
+## 🏆 Wonders Included
+
+| Wonder | Description |
+|:---|:---|
+| **The Great Wall of China** | An ancient defensive structure stretching across northern China, built to protect Chinese territories. |
+| **Petra** | A historic archaeological city in Jordan, famous for its rock-cut architecture and rose-red sandstone. |
+| **Christ the Redeemer** | An iconic statue of Jesus Christ overlooking Rio de Janeiro, Brazil. |
+| **Machu Picchu** | An ancient Incan citadel in Peru, nestled high in the Andes Mountains. |
+| **Chichen Itza** | A remarkable Mayan archaeological site in Mexico, known for its iconic pyramid, El Castillo. |
+| **Roman Colosseum** | An ancient Roman amphitheatre in Italy, famous for gladiatorial contests and public spectacles. |
+| **Taj Mahal** | A magnificent white marble mausoleum in Agra, India, built by Emperor Shah Jahan in memory of Mumtaz Mahal. | 
 
 ---
 
